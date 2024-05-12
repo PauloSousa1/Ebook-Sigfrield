@@ -3,10 +3,13 @@ Ebook feito com IA que narra a história do herói nórdico Sigfrield em formato
 
 PROMPTS USADOS
 [Chat GPT]
+
 "Me conte a história do Sigfrield em formato de poema."
+
 "Divida o poema anterior em uma história, em formato de poesia, dividida em 3 atos."
 
 [COPILOT]
+
 Capa: "Faça uma imagem que represente um cartaz do Sigfrield jovem. Seus cabelos são loiros e longos e ele tem uma barba curta no rosto. Está olhando para a frente e tem uma espada guardada nas costas. Abaixo dele, há uma logo escrita ''Sigfrield'' em um estilo nórdico. Faça a imagem em um estilo nórdico 2D."
 
 Introdução: "Faça uma imagem do Sigfrield jovem, sem camisa e bem musculoso, lutando contra um dragão. Faça em um estilo de arte nórdica." (Foi também o mesmo prompt da página 5)
